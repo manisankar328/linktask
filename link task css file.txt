@@ -1,0 +1,20 @@
+h1{
+    height: 17px;
+}
+hr{
+    color: brown;
+}
+a:hover{
+    color: rgb(224, 3, 3);
+    background-color:rgb(247, 243, 243);
+}
+a{
+    padding: 9px;
+
+}
+body{
+    background-color: yellow;
+}
+p{
+    display: block;
+}

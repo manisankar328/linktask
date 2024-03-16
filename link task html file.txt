@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="style.css">
+    <title>Link task</title>
+</head>
+<body>
+    <h1 style="text-align: center; color: brown;">INFOMAX</h1>
+    <h1  style="text-align: center; color: brown;">COMPUTER ACADEMY</h1>
+<hr>
+<div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="#aboutus">About</a>
+    <a href="#coursed"> Courses</a>
+    <a href="#contact"> Contact</a>
+</div>
+<hr>
+<h1>Who we are ?</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas sint animi inventore, expedita ea nesciunt rerum dignissimos consectetur.<br><br>Dolore dicta recusandae maxime debitis aperiam quasi laboriosam repellendus impedit fuga quisquam?</p>
+<br>
+<h1>What we offer ?</h1>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo delectus, doloribus non ex quibusdam quis dolore laboriosam obcaecati porro <br><br>perspiciatis quo. Ipsum velit minima reiciendis molestiae sit quisquam harum sed.</p>
+<br><br><br>
+Registration Start Now For Registration <a href="#link">Click here</a>
+
+</body>
+</html>
